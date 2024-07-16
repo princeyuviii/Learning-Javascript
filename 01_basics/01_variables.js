@@ -5,6 +5,10 @@ accountCity = "Jaipur"
 let accountState;
 
 //accountId = 7777777
+/*
+Prefer not to use var
+because of issue in block scope and functional scope 
+*/
 
 accountEmail = "yuvraj@google.com"
 accountPassword = "1234"
